@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>My Den</title>
+  <title>Category: test - My Den</title>
   <meta name="author" content="Igor Costa">
 
   
-  <meta name="description" content="Search Results $('#search_results').tapir({ 'token': '50e03b6e3f61b0160000014d', 'complete' : function() { document.getElementById('search_loading'). &hellip;">
+  <meta name="description" content="Category: test">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://igorc.tk/search.html">
+  <link rel="canonical" href="http://igorc.tkblog/categories/test/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
    <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
@@ -78,21 +78,122 @@
 </nav> -->
   <div id="main">
     <div id="content">
-      <h1 class="entry-title"><center>Search Results</center></h1>
-<div id="search_loading" style="margin: 40px 0">
-    <center><img src="/images/loading.gif"></center>
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Category: Test</h1>
+    
+  </header>
+  
+  <div id="blog-archives" class="category">
+
+
+
+  
+  <h2>2014</h2>
+
+<article>
+  
+<h1><a href="/blog/test/">Test</a></h1>
+<time datetime="2014-03-27T13:43:50-03:00" pubdate><span class='month'>Mar</span> <span class='day'>27</span> <span class='year'>2014</span></time>
+
+<footer>
+  <span class="categories">posted in <a class='category' href='/blog/categories/test/'>test</a></span>
+</footer>
+
+
+</article>
+
 </div>
 
-<script type="text/javascript" src="/javascripts/jquery-tapir.js"></script>
-<div id="search_results" style="display:none">
-<br>
+  
+</article>
+
 </div>
-<script>
-         $('#search_results').tapir({
-             'token': '50e03b6e3f61b0160000014d',
-             'complete' : function() { document.getElementById('search_loading').style.display="none"; }
-         });
-</script>
+
+<aside class="sidebar">
+  
+    <section id="titles">
+  <a href="http://igorc.tk" title="My Den"><img id="logo" src="http://igorc.tk/images/" /></a>
+  <h1 id="site_title"><a href="http://igorc.tk" title="My Den">My Den</a></h1>
+  <h3 id="site_subtitle">Peek a mind</h3>
+</section>
+
+<section id="menu">
+  <ul>
+    <li><i class="fa fa-home fa-lg"></i><a href="http://igorc.tk"> Home </a></li>
+    <li><i class="fa fa-calendar fa-lg"></i><a href="http://igorc.tk/blog/archives/"> Archives </a></li>
+    <li><i class="fa fa-user fa-lg"></i><a href="http://igorc.tk/about/"> About </a></li>
+    <li><i class="fa fa-rss fa-lg"></i><a href="http://igorc.tk/atom.xml"> Feed </a></li>
+  </ul>
+</section>
+
+<section id="social">
+  
+
+  
+
+  
+
+  
+    <a href="https://github.com/igorrcosta" title="igorrcosta"><i class="fa fa-github fa-2x"></i></a>
+  
+
+  
+
+  
+    <a href="https://twitter.com/igorrcosta" title="igorrcosta"><i class="fa fa-twitter fa-2x"></i></a>
+  
+</section>
+
+
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/test/">Test</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/igorrcosta">@igorrcosta</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'igorrcosta',
+            count: 5,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
 
 
     </div>
