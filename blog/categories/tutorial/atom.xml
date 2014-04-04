@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tutorial | My Den]]></title>
   <link href="http://igorc.tk/blog/categories/tutorial/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-04-04T13:39:39-03:00</updated>
+  <updated>2014-04-04T17:49:48-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -18,13 +18,44 @@
     <link href="http://igorc.tk/blog/como-eu-criei-este-site/"/>
     <updated>2014-04-04T13:35:24-03:00</updated>
     <id>http://igorc.tk/blog/como-eu-criei-este-site</id>
-    <content type="html"><![CDATA[<p>-Objetivo do site
--porque Open Source
--github pages
--octopress
--domínio
--tema
--toques finais</p>
+    <content type="html"><![CDATA[<p>Este site foi criado para divulgar textos científicos e o processo de criação destes textos. Neste primeiro post eu quero mostrar como é fácil criar um site totalmente Open Source de graça no Ubuntu. Para isso eu usei a hospedagem do <a href="https://pages.github.com/">GitHub pages</a>, que tem a vantagem de fazer o controle de versionamento e backup do seu site automaticamente (e de graça!), mas com a limitação de só hospedar sites estáticos. Basicamente basta ter uma conta no GitHub e criar um repositório  chamado &ldquo;<em>NomeDoUsuário</em>.github.io&rdquo;, que vai ser o endereço provisório do seu site.</p>
+
+<p>Eu não estava satisfeito com o nome do site, mas também não queria gastar dinheiro comprando um nome. Então eu procurei por domínios toplevel (com um ponto só, eg.: blabla.com) gratuitos e encontrei o <a href="www.dot.tk">dot.tk</a>, que dá nomes gatuitos no domínio &ldquo;.tk&rdquo;. Essa empresa não tem uma boa reputação e eu recomendo que você compre um domínio &ldquo;.com&rdquo; ou &ldquo;.io&rdquo;, que está na moda, mas eu tinha um ponto a ser provado e decidir arriscar.</p>
+
+<p>Para transformar a minha página vazia no GitHub em um blog bonitinho, eu usei o framework do <a href="http://octopress.org">Octopress</a> e o tema <a href="" title="https://github.com/bijumon/oct2">Pageturner</a>. Para facilitar a sua vida eu fiz um pequeno script que faz todo o setup do octopress e instala o tema:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span> (install_octopress.sh)</span> <a href='/downloads/code/install_octopress.sh'>download</a></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="c">#!/bin/sh</span>
+</span><span class='line'><span class="c">#Este script instala o octopress e o tema oct2. Requisitos: git e ruby-1.9.3</span>
+</span><span class='line'>git clone git://github.com/imathis/octopress.git site <span class="c">#instala o Octopress na pasta &quot;site&quot;</span>
+</span><span class='line'><span class="nb">cd </span>site/
+</span><span class='line'>sudo gem install bundler
+</span><span class='line'>bundle install
+</span><span class='line'>git clone https://github.com/bijumon/oct2 .themes/oct2
+</span><span class='line'>rake install<span class="o">[</span><span class="s1">&#39;oct2&#39;</span><span class="o">]</span> <span class="c">#Instala o tema &quot;oct2&quot;</span>
+</span><span class='line'><span class="c">#Veja mais temas em https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes</span>
+</span><span class='line'>rake setup_github_pages<span class="o">[</span><span class="s1">&#39;git@github.com:igorrcosta/igorrcosta.github.io.git&#39;</span><span class="o">]</span> <span class="c">#</span>
+</span><span class='line'><span class="nb">echo</span> <span class="s1">&#39;igorc.tk&#39;</span>&gt;source/CNAME <span class="c">#Redireciona o site &quot;igorrcosta.github.io.git&quot; para &quot;igorc.tk&quot;</span>
+</span><span class='line'>rake generate <span class="c">#Gera as páginas estáticas do site</span>
+</span><span class='line'>rake preview <span class="c">#Gera uma prévia do seu site em http://localhost:4000/</span>
+</span><span class='line'><span class="c">#rake deploy #Use esta linha para publicar o seu site</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Para dar os toques finais eu dei um nome para o site e adicionei um <a href="http://en.wikipedia.org/wiki/Favicon">favicon</a>: <img src="../favicon.png" width="32" height="32">. Nos próximos posts vou mostrar o processo de criação de um texto de divulgação científica.</p>
 ]]></content>
   </entry>
   
