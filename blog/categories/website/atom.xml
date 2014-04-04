@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Den]]></title>
-  <link href="http://igorc.tk/atom.xml" rel="self"/>
+  <title><![CDATA[Category: website | My Den]]></title>
+  <link href="http://igorc.tk/blog/categories/website/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
   <updated>2014-04-04T13:39:39-03:00</updated>
   <id>http://igorc.tk/</id>
@@ -25,15 +25,6 @@
 -domínio
 -tema
 -toques finais</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://igorc.tk/blog/test/"/>
-    <updated>2014-03-27T13:43:50-03:00</updated>
-    <id>http://igorc.tk/blog/test</id>
-    <content type="html"><![CDATA[<p>Welcome to my den!</p>
 ]]></content>
   </entry>
   
