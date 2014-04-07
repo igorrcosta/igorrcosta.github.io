@@ -2,7 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://igorc.tk/blog/como-eu-criei-este-site/</loc>
-        <lastmod>2014-04-04T17:48:52-03:00</lastmod>
+        <lastmod>2014-04-06T21:25:32-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://igorc.tk/blog/a-evolucao-da-heterotrofia/</loc>
+        <lastmod>2014-04-06T21:25:57-03:00</lastmod>
     </url>
     <url>
         <loc>http://igorc.tk/search.html</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://igorc.tk/blog/archives/</loc>
-        <lastmod>2014-04-04T17:48:52-03:00</lastmod>
+        <lastmod>2014-04-06T21:25:57-03:00</lastmod>
     </url>
     <url>
         <loc>http://igorc.tk/blog/categories/</loc>
@@ -22,10 +26,10 @@
     </url>
     <url>
         <loc>http://igorc.tk/blog/</loc>
-        <lastmod>2014-04-04T17:48:52-03:00</lastmod>
+        <lastmod>2014-04-06T21:25:57-03:00</lastmod>
     </url>
     <url>
         <loc>http://igorc.tk/</loc>
-        <lastmod>2014-04-04T17:48:52-03:00</lastmod>
+        <lastmod>2014-04-06T21:25:57-03:00</lastmod>
     </url>
 </urlset>

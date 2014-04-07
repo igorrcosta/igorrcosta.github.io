@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ciência | My Den]]></title>
+  <link href="http://igorc.tk/blog/categories/ciencia/atom.xml" rel="self"/>
+  <link href="http://igorc.tk/"/>
+  <updated>2014-04-06T21:26:12-03:00</updated>
+  <id>http://igorc.tk/</id>
+  <author>
+    <name><![CDATA[Igor Costa]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Construindo um texto de divulgação: A Evolução da Heterotrofia]]></title>
+    <link href="http://igorc.tk/blog/a-evolucao-da-heterotrofia/"/>
+    <updated>2014-04-06T17:39:36-03:00</updated>
+    <id>http://igorc.tk/blog/a-evolucao-da-heterotrofia</id>
+    <content type="html"><![CDATA[<p>Neste post eu vou resumir o processo de criação de um texto de divulgação científica. Este texto faz parte da disciplina <a href="http://www.bioqmed.ufrj.br/quimica-biologica/disciplinas/divulgando-nossas-teses">&ldquo;Divulgando nossas Teses&rdquo;</a>, oferecida pelos professores <a href="http://www.bioqmed.ufrj.br/docentes/?u=msalmeida">Marcius Almeida</a> e <a href="http://www.bioqmed.ufrj.br/docentes/?u=pathessab">Patricia Alvarenga</a>.</p>
+
+<!-- more -->
+
+
+<p>Cronograma:</p>
+
+<ul>
+<li>4/4 &ndash; Escolha e varredura do tema</li>
+<li>11/4 &ndash; Reunião com feedback dos professores</li>
+<li>25/4 &ndash; Primeira versão dos textos, questionários e plano de avaliação</li>
+<li>29/4 &ndash; Professores encaminham sugestões</li>
+<li>30/4 &ndash; Reunião para revisão dos textos</li>
+<li>16/5 &ndash; Entrega da versão revisada</li>
+<li>23/5 &ndash; Considerações finais dos professores</li>
+<li>26-30/5 &ndash; Execução do plano de avaliação</li>
+</ul>
+
+
+<p>Publico alvo: Alunos do ensino médio que aprenderam sobre as diversas fontes de nutrientes e tiveram uma introdução a evolução.</p>
+
+<p>Temas abordados:</p>
+
+<ul>
+<li>Parte I
+
+<ul>
+<li>Classificação dos organismos de acordo com a sua fonte nutricional</li>
+<li><a href="http://en.wikipedia.org/wiki/File:Troph_flowchart.png">Fontes de carbono e fontes de energia</a></li>
+</ul>
+</li>
+<li>Parte II
+
+<ul>
+<li>Os primeiros predadores</li>
+</ul>
+</li>
+<li>Parte III
+
+<ul>
+<li>Aminoácidos essenciais</li>
+<li>Vias de biossíntese</li>
+<li>A grande deleção genômica</li>
+</ul>
+</li>
+<li>Parte IV
+
+<ul>
+<li>Os genes que sobraram</li>
+</ul>
+</li>
+</ul>
+
+
+<p>Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no <a href="https://github.com/igorrcosta/igorrcosta.github.io/tree/source/">github</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
