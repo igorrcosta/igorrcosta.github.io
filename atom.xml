@@ -4,7 +4,7 @@
   <title><![CDATA[My Den]]></title>
   <link href="http://igorc.tk/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-04-06T21:42:14-03:00</updated>
+  <updated>2014-04-06T22:24:22-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -45,34 +45,40 @@
 <li>Parte I
 
 <ul>
-<li>Classificação dos organismos de acordo com a sua fonte nutricional</li>
+<li>Classificação dos organismos de acordo com a sua fonte nutricional <sup><a href="http://en.wikipedia.org/wiki/Primary_nutritional_groups">1</a></sup></li>
 <li><a href="http://en.wikipedia.org/wiki/File:Troph_flowchart.png">Fontes de carbono e fontes de energia</a></li>
 </ul>
 </li>
 <li>Parte II
 
 <ul>
-<li>Os primeiros predadores</li>
+<li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">2</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">3</a></sup></li>
 </ul>
 </li>
 <li>Parte III
 
 <ul>
-<li>Aminoácidos essenciais</li>
+<li>Aminoácidos essenciais <sup><a href="http://jn.nutrition.org/content/130/7/1835S.full">4</a></sup></li>
 <li>Vias de biossíntese</li>
-<li>A grande deleção genômica</li>
+<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">5</a></sup></li>
 </ul>
 </li>
 <li>Parte IV
 
 <ul>
-<li>Os genes que sobraram</li>
+<li>Os genes que sobraram (meu paper)</li>
 </ul>
 </li>
 </ul>
 
 
 <p>Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no <a href="https://github.com/igorrcosta/igorrcosta.github.source/">github</a>.</p>
+
+<p>[1]-<a href="http://en.wikipedia.org/wiki/Primary_nutritional_groups">http://en.wikipedia.org/wiki/Primary_nutritional_groups</a> <br/>
+[2]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
+[3]-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
+[4]-<a href="http://jn.nutrition.org/content/130/7/1835S.full">http://jn.nutrition.org/content/130/7/1835S.full</a> <br/>
+[5]-<a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">http://www.biomedcentral.com/1471-2164/12/S4/S2</a></p>
 ]]></content>
   </entry>
   
