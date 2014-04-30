@@ -4,7 +4,7 @@
   <title><![CDATA[My Den]]></title>
   <link href="http://igorc.tk/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-04-30T14:07:29-03:00</updated>
+  <updated>2014-04-30T15:33:57-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[os genes que sobraram]]></title>
+    <link href="http://igorc.tk/blog/os-genes-que-sobraram/"/>
+    <updated>2014-04-30T14:34:33-03:00</updated>
+    <id>http://igorc.tk/blog/os-genes-que-sobraram</id>
+    <content type="html"><![CDATA[<p>Brainstorm:</p>
+
+<p>Vimos no <a href="http://igorc.tk/blog/os-primeiros-predadores/">último post</a> que os primeiros organismos heterotrofos deram origem a todas as plantas, os fungos e os animais.<br/>
+Durante a evolução dos eucariotos, os primeiros animais se especializaram na predação de outros eucariotos &ndash;> Essa nova dieta causou um aumento na ingestão de aminoácidos, vitaminas e lipídeos &ndash;> Assim, os animais não precisavam mais fazer os próprios aminoácidos, e muitas vias de biossíntese foram perdidas &ndash;> Mas alguns genes dessas vias sobraram! &ndash;> Uns ficaram porque eles possuem outras funções &ndash;> Outros, porém, como a ALS e BHMT podem ter ganho novas funções depois da deleção.</p>
+
+<p>Pressão seletiva?</p>
+
+<p>Quando olhamos para a sequêcia do ALS e do BHMT dos animais, plantas e fungos vemos que as sequências de ALS e BHMT das plantas e dos fungos são bem parecidas entre si, ao contrário da maioria dos nossos genes, que tem sequências parecidas entre animais e fungos. Isso mostra que esses genes mudaram bastante nos animais.</p>
+
+<p>Questões:</p>
+
+<ol>
+<li>Porque nós não conseguimos produzir alguns aminoácidos?</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Os primeiros predadores]]></title>
@@ -22,83 +45,6 @@
 <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
 <a href="http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  ">http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  </a>
 <a href="http://www.biologydirect.com/content/4/1/9">http://www.biologydirect.com/content/4/1/9</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Aminoácidos Essenciais]]></title>
-    <link href="http://igorc.tk/blog/aminoacidos-essenciais/"/>
-    <updated>2014-04-25T17:23:12-03:00</updated>
-    <id>http://igorc.tk/blog/aminoacidos-essenciais</id>
-    <content type="html"><![CDATA[<ul>
-<li>Parte III
-
-<ul>
-<li>Aminoácidos essenciais <sup><a href="http://jn.nutrition.org/content/130/7/1835S.full">4</a></sup></li>
-<li>Vias de biossíntese</li>
-<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">5</a></sup></li>
-</ul>
-</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Energia + Carbono = Vida]]></title>
-    <link href="http://igorc.tk/blog/energia-plus-carbono-equals-vida/"/>
-    <updated>2014-04-25T16:37:07-03:00</updated>
-    <id>http://igorc.tk/blog/energia-plus-carbono-equals-vida</id>
-    <content type="html"><![CDATA[<p>Todos os seres vivos conhecidos precisam de energia e de Carbono para sobreviver e proliferar. Mas encontramos na vida diversas estratégias diferentes para obter esses dois elementos básicos.</p>
-
-<!-- more -->
-
-
-<p>Conceitos chave:</p>
-
-<ul>
-<li><p>Classificação por fonte de energia</p>
-
-<ul>
-<li>Animais e fungos são quimiotrofos
-
-<ul>
-<li>A Mitocôndria</li>
-</ul>
-</li>
-<li>Plantas são fototrofas
-
-<ul>
-<li>A Fotossíntese</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>Classificação por fonte de carbono</p>
-
-<ul>
-<li>Para que serve o Carbono?</li>
-<li>Animais e fungos são heterotrofos</li>
-<li>Plantas são autotrofas</li>
-</ul>
-</li>
-<li><p>Exceçoes</p>
-
-<ul>
-<li>A lesma <em>Elysia chlorotica</em> (kleptoplastia) <sup> <a href="http://www.pnas.org/content/105/46/17867">1</a><a href="http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/">2</a> </sup></li>
-<li>Fungos Radiotróficos (absorvem radiação ionizante) <sup> <a href="http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457">3</a> </sup></li>
-<li>A planta <em>Monotropa uniflora</em> (mico-heterotrofa, não faz fotossintese) <sup> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/?report=classic">4</a> </sup></li>
-</ul>
-</li>
-</ul>
-
-
-<p>Referências</p>
-
-<p>[1]-<a href="http://www.pnas.org/content/105/46/17867">http://www.pnas.org/content/105/46/17867</a> <br/>
-[2]-<a href="http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/">http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/</a> <br/>
-[3]-<a href="http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457">http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457</a> <br/>
-[4]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/</a></p>
 ]]></content>
   </entry>
   
@@ -120,6 +66,7 @@
 <li>25/4 &ndash; Primeira versão dos textos, questionários e plano de avaliação</li>
 <li>29/4 &ndash; Professores encaminham sugestões</li>
 <li>30/4 &ndash; Reunião para revisão dos textos</li>
+<li>07/4 &ndash; Entrega do texto</li>
 <li>16/5 &ndash; Entrega da versão revisada</li>
 <li>23/5 &ndash; Considerações finais dos professores</li>
 <li>26-30/5 &ndash; Execução do plano de avaliação</li>
@@ -131,30 +78,16 @@
 <p>Temas abordados:</p>
 
 <ul>
-<li><a href="http://igorc.tk/blog/energia-plus-carbono-equals-vida/">Parte I</a>
+<li><a href="http://igorc.tk/blog/os-primeiros-predadores/">Parte I</a>
 
 <ul>
-<li>Classificação dos organismos de acordo com a sua fonte nutricional <sup><a href="http://en.wikipedia.org/wiki/Primary_nutritional_groups">1</a></sup></li>
-<li><a href="http://en.wikipedia.org/wiki/File:Troph_flowchart.png">Fontes de carbono e fontes de energia</a></li>
+<li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">1</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">2</a></sup></li>
 </ul>
 </li>
-<li><a href="http://igorc.tk/blog/os-primeiros-predadores/">Parte II</a>
+<li><a href="http://igorc.tk/blog/os-genes-que-sobraram/">Parte II</a>
 
 <ul>
-<li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">2</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">3</a></sup></li>
-</ul>
-</li>
-<li><a href="http://igorc.tk/blog/aminoacidos-essenciais/">Parte III</a>
-
-<ul>
-<li>Aminoácidos essenciais <sup><a href="http://jn.nutrition.org/content/130/7/1835S.full">4</a></sup></li>
-<li>Vias de biossíntese</li>
-<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">5</a></sup></li>
-</ul>
-</li>
-<li>Parte IV
-
-<ul>
+<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">3</a></sup></li>
 <li>Os genes que sobraram (meu paper)</li>
 </ul>
 </li>
@@ -163,11 +96,9 @@
 
 <p>Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no <a href="https://github.com/igorrcosta/igorrcosta.github.source/">github</a>.</p>
 
-<p>[1]-<a href="http://en.wikipedia.org/wiki/Primary_nutritional_groups">http://en.wikipedia.org/wiki/Primary_nutritional_groups</a> <br/>
-[2]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
-[3]-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
-[4]-<a href="http://jn.nutrition.org/content/130/7/1835S.full">http://jn.nutrition.org/content/130/7/1835S.full</a> <br/>
-[5]-<a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">http://www.biomedcentral.com/1471-2164/12/S4/S2</a></p>
+<p>[1]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
+[2]-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
+[3]-<a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">http://www.biomedcentral.com/1471-2164/12/S4/S2</a></p>
 ]]></content>
   </entry>
   

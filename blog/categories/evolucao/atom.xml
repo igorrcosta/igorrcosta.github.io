@@ -4,7 +4,7 @@
   <title><![CDATA[Category: evolução | My Den]]></title>
   <link href="http://igorc.tk/blog/categories/evolucao/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-04-30T14:07:29-03:00</updated>
+  <updated>2014-04-30T15:33:57-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -43,6 +43,7 @@
 <li>25/4 &ndash; Primeira versão dos textos, questionários e plano de avaliação</li>
 <li>29/4 &ndash; Professores encaminham sugestões</li>
 <li>30/4 &ndash; Reunião para revisão dos textos</li>
+<li>07/4 &ndash; Entrega do texto</li>
 <li>16/5 &ndash; Entrega da versão revisada</li>
 <li>23/5 &ndash; Considerações finais dos professores</li>
 <li>26-30/5 &ndash; Execução do plano de avaliação</li>
@@ -54,30 +55,16 @@
 <p>Temas abordados:</p>
 
 <ul>
-<li><a href="http://igorc.tk/blog/energia-plus-carbono-equals-vida/">Parte I</a>
+<li><a href="http://igorc.tk/blog/os-primeiros-predadores/">Parte I</a>
 
 <ul>
-<li>Classificação dos organismos de acordo com a sua fonte nutricional <sup><a href="http://en.wikipedia.org/wiki/Primary_nutritional_groups">1</a></sup></li>
-<li><a href="http://en.wikipedia.org/wiki/File:Troph_flowchart.png">Fontes de carbono e fontes de energia</a></li>
+<li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">1</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">2</a></sup></li>
 </ul>
 </li>
-<li><a href="http://igorc.tk/blog/os-primeiros-predadores/">Parte II</a>
+<li><a href="http://igorc.tk/blog/os-genes-que-sobraram/">Parte II</a>
 
 <ul>
-<li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">2</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">3</a></sup></li>
-</ul>
-</li>
-<li><a href="http://igorc.tk/blog/aminoacidos-essenciais/">Parte III</a>
-
-<ul>
-<li>Aminoácidos essenciais <sup><a href="http://jn.nutrition.org/content/130/7/1835S.full">4</a></sup></li>
-<li>Vias de biossíntese</li>
-<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">5</a></sup></li>
-</ul>
-</li>
-<li>Parte IV
-
-<ul>
+<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">3</a></sup></li>
 <li>Os genes que sobraram (meu paper)</li>
 </ul>
 </li>
@@ -86,11 +73,9 @@
 
 <p>Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no <a href="https://github.com/igorrcosta/igorrcosta.github.source/">github</a>.</p>
 
-<p>[1]-<a href="http://en.wikipedia.org/wiki/Primary_nutritional_groups">http://en.wikipedia.org/wiki/Primary_nutritional_groups</a> <br/>
-[2]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
-[3]-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
-[4]-<a href="http://jn.nutrition.org/content/130/7/1835S.full">http://jn.nutrition.org/content/130/7/1835S.full</a> <br/>
-[5]-<a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">http://www.biomedcentral.com/1471-2164/12/S4/S2</a></p>
+<p>[1]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
+[2]-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
+[3]-<a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">http://www.biomedcentral.com/1471-2164/12/S4/S2</a></p>
 ]]></content>
   </entry>
   
