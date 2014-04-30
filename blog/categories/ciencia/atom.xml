@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ciência | My Den]]></title>
   <link href="http://igorc.tk/blog/categories/ciencia/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-04-29T10:30:32-03:00</updated>
+  <updated>2014-04-30T14:07:29-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Os primeiros predadores]]></title>
+    <link href="http://igorc.tk/blog/os-primeiros-predadores/"/>
+    <updated>2014-04-30T13:55:14-03:00</updated>
+    <id>http://igorc.tk/blog/os-primeiros-predadores</id>
+    <content type="html"><![CDATA[<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
+<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
+<a href="http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  ">http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  </a>
+<a href="http://www.biologydirect.com/content/4/1/9">http://www.biologydirect.com/content/4/1/9</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Energia + Carbono = Vida]]></title>
@@ -107,13 +119,13 @@
 <li><a href="http://en.wikipedia.org/wiki/File:Troph_flowchart.png">Fontes de carbono e fontes de energia</a></li>
 </ul>
 </li>
-<li>Parte II?
+<li><a href="http://igorc.tk/blog/os-primeiros-predadores/">Parte II</a>
 
 <ul>
 <li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">2</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">3</a></sup></li>
 </ul>
 </li>
-<li>Parte III
+<li><a href="http://igorc.tk/blog/aminoacidos-essenciais/">Parte III</a>
 
 <ul>
 <li>Aminoácidos essenciais <sup><a href="http://jn.nutrition.org/content/130/7/1835S.full">4</a></sup></li>
