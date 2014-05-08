@@ -4,7 +4,7 @@
   <title><![CDATA[My Den]]></title>
   <link href="http://igorc.tk/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-05-05T11:10:44-03:00</updated>
+  <updated>2014-05-08T01:27:37-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -14,13 +14,43 @@
 
   
   <entry>
+    <title type="html"><![CDATA[avaliação de aprendizado]]></title>
+    <link href="http://igorc.tk/blog/avaliacao-de-aprendizado/"/>
+    <updated>2014-05-07T10:30:17-03:00</updated>
+    <id>http://igorc.tk/blog/avaliacao-de-aprendizado</id>
+    <content type="html"><![CDATA[<p>Este teste busca descobrir se o texto alcançou o objetivo de passar conceitos chave sobre a evolução dos animais para o público alvo. <!-- more -->
+Na construção deste teste busquei fazer o mínimo possível de perguntas para tomar pouco tempo, mas ao mesmo tempo maximizar o escopo de cada questão de modo a abordar os conceitos centrais do texto.</p>
+
+<p>Ainda não tenho certeza se o formato de pergunta discussiva é o mais apropriado&hellip;
+Após a fase de execução também publicarei aqui os resultados desta avaliação.</p>
+
+<h3>Questões:</h3>
+
+
+<p></p>
+
+<h4>Parte 1:</h4>
+
+
+<p>1- Qual a origem dos plastídeos (cloroplasto/mitocôndria)?<br/>
+2- Por que plantas conseguem fazer fotossíntese, mas animais e fungos não?</p>
+
+<h4>Parte 2:</h4>
+
+
+<p>1- Por que os animais não produzem alguns aminoácidos?<br/>
+2- Quais são os indícios de que uma proteína ganhou novas funções?</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[os genes que sobraram]]></title>
     <link href="http://igorc.tk/blog/os-genes-que-sobraram/"/>
     <updated>2014-04-30T14:34:33-03:00</updated>
     <id>http://igorc.tk/blog/os-genes-que-sobraram</id>
     <content type="html"><![CDATA[<p>Brainstorm:</p>
 
-<p>Vimos no <a href="http://igorc.tk/blog/os-primeiros-predadores/">último post</a> que os primeiros organismos heterotrofos deram origem a todas as plantas, os fungos e os animais.<br/>
+<p>Vimos no <a href="http://igorc.tk/blog/os-primeiros-predadores/">último post</a> que os primeiros organismos heterotrofos deram origem a todas as plantas, os fungos e os animais.<!-- more --> <br/>
 Durante a evolução dos eucariotos, os primeiros animais se especializaram na predação de outros eucariotos &ndash;> Essa nova dieta causou um aumento na ingestão de aminoácidos, vitaminas e lipídeos &ndash;> Assim, os animais não precisavam mais fazer os próprios aminoácidos, e muitas vias de biossíntese foram perdidas &ndash;> Mas alguns genes dessas vias sobraram! &ndash;> Uns ficaram porque eles possuem outras funções &ndash;> Outros, porém, como a ALS e BHMT podem ter ganho novas funções depois da deleção.</p>
 
 <p>Pressão seletiva?</p>
@@ -41,7 +71,8 @@ Durante a evolução dos eucariotos, os primeiros animais se especializaram na p
     <link href="http://igorc.tk/blog/os-primeiros-predadores/"/>
     <updated>2014-04-30T13:55:14-03:00</updated>
     <id>http://igorc.tk/blog/os-primeiros-predadores</id>
-    <content type="html"><![CDATA[<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
+    <content type="html"><![CDATA[<p>Bem no começo da história da vida, em uma época em que células ainda não possuíam núcleos, algumas arqueobactérias desenvolveram a capacidade de fagocitar. <!-- more -->[imagem de fagocitose]
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
 <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
 <a href="http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  ">http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  </a>
 <a href="http://www.biologydirect.com/content/4/1/9">http://www.biologydirect.com/content/4/1/9</a></p>
