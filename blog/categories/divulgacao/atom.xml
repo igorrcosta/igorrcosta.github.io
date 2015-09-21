@@ -4,7 +4,7 @@
   <title><![CDATA[Category: divulgação | My Den]]></title>
   <link href="http://igorc.tk/blog/categories/divulgacao/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2014-05-08T01:27:37-03:00</updated>
+  <updated>2015-09-20T22:58:18-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -12,19 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Os primeiros predadores]]></title>
-    <link href="http://igorc.tk/blog/os-primeiros-predadores/"/>
-    <updated>2014-04-30T13:55:14-03:00</updated>
-    <id>http://igorc.tk/blog/os-primeiros-predadores</id>
-    <content type="html"><![CDATA[<p>Bem no começo da história da vida, em uma época em que células ainda não possuíam núcleos, algumas arqueobactérias desenvolveram a capacidade de fagocitar. <!-- more -->[imagem de fagocitose]
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
-<a href="http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  ">http://www.nature.com/scitable/content/the-two-hypotheses-on-the-origin-of-14457740  </a>
-<a href="http://www.biologydirect.com/content/4/1/9">http://www.biologydirect.com/content/4/1/9</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Energia + Carbono = Vida]]></title>
@@ -81,60 +68,6 @@
 [2]-<a href="http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/">http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/</a> <br/>
 [3]-<a href="http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457">http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457</a> <br/>
 [4]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Construindo um texto de divulgação: A Evolução da Heterotrofia]]></title>
-    <link href="http://igorc.tk/blog/a-evolucao-da-heterotrofia/"/>
-    <updated>2014-04-06T17:39:36-03:00</updated>
-    <id>http://igorc.tk/blog/a-evolucao-da-heterotrofia</id>
-    <content type="html"><![CDATA[<p>Neste post eu vou resumir o processo de criação de um texto de divulgação científica. Este texto faz parte da disciplina <a href="http://www.bioqmed.ufrj.br/quimica-biologica/disciplinas/divulgando-nossas-teses">&ldquo;Divulgando nossas Teses&rdquo;</a>, oferecida pelos professores <a href="http://www.bioqmed.ufrj.br/docentes/?u=msalmeida">Marcius Almeida</a> e <a href="http://www.bioqmed.ufrj.br/docentes/?u=pathessab">Patricia Alvarenga</a>.</p>
-
-<!-- more -->
-
-
-<p>Cronograma:</p>
-
-<ul>
-<li>4/4 &ndash; Escolha e varredura do tema</li>
-<li>11/4 &ndash; Reunião com feedback dos professores</li>
-<li>25/4 &ndash; Primeira versão dos textos, questionários e plano de avaliação</li>
-<li>29/4 &ndash; Professores encaminham sugestões</li>
-<li>30/4 &ndash; Reunião para revisão dos textos</li>
-<li>07/4 &ndash; Entrega do texto</li>
-<li>16/5 &ndash; Entrega da versão revisada</li>
-<li>23/5 &ndash; Considerações finais dos professores</li>
-<li>26-30/5 &ndash; Execução do plano de avaliação</li>
-</ul>
-
-
-<p>Publico alvo: Alunos do ensino médio que aprenderam sobre as diversas fontes de nutrientes e tiveram uma introdução a evolução.</p>
-
-<p>Temas abordados:</p>
-
-<ul>
-<li><a href="http://igorc.tk/blog/os-primeiros-predadores/">Parte I</a>
-
-<ul>
-<li>Os primeiros predadores <sup><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">1</a> <a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">2</a></sup></li>
-</ul>
-</li>
-<li><a href="http://igorc.tk/blog/os-genes-que-sobraram/">Parte II</a>
-
-<ul>
-<li>A grande deleção genômica <sup><a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">3</a></sup></li>
-<li>Os genes que sobraram (meu paper)</li>
-</ul>
-</li>
-</ul>
-
-
-<p>Esse post vai ser atualizado de acordo com as mudanças da estrutura do texto. Todas as mudanças podem ser acompanhadas no <a href="https://github.com/igorrcosta/igorrcosta.github.source/">github</a>.</p>
-
-<p>[1]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562698/pdf/nihms51752.pdf</a> <br/>
-[2]-<a href="http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF">http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0002098&amp;representation=PDF</a> <br/>
-[3]-<a href="http://www.biomedcentral.com/1471-2164/12/S4/S2">http://www.biomedcentral.com/1471-2164/12/S4/S2</a></p>
 ]]></content>
   </entry>
   
