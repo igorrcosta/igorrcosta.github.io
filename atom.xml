@@ -4,7 +4,7 @@
   <title><![CDATA[My Den]]></title>
   <link href="http://igorc.tk/atom.xml" rel="self"/>
   <link href="http://igorc.tk/"/>
-  <updated>2015-09-20T22:58:18-03:00</updated>
+  <updated>2015-09-21T01:05:19-03:00</updated>
   <id>http://igorc.tk/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
@@ -12,117 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[avaliação de aprendizado]]></title>
-    <link href="http://igorc.tk/blog/avaliacao-de-aprendizado/"/>
-    <updated>2014-05-07T10:30:17-03:00</updated>
-    <id>http://igorc.tk/blog/avaliacao-de-aprendizado</id>
-    <content type="html"><![CDATA[<p>Este teste busca descobrir se o texto alcançou o objetivo de passar conceitos chave sobre a evolução dos animais para o público alvo. <!-- more -->
-Na construção deste teste busquei fazer o mínimo possível de perguntas para tomar pouco tempo, mas ao mesmo tempo maximizar o escopo de cada questão de modo a abordar os conceitos centrais do texto.</p>
-
-<p>Ainda não tenho certeza se o formato de pergunta discussiva é o mais apropriado&hellip;
-Após a fase de execução também publicarei aqui os resultados desta avaliação.</p>
-
-<h3>Questões:</h3>
-
-
-<p></p>
-
-<h4>Parte 1:</h4>
-
-
-<p>1- Qual a origem dos plastídeos (cloroplasto/mitocôndria)?<br/>
-2- Por que plantas conseguem fazer fotossíntese, mas animais e fungos não?</p>
-
-<h4>Parte 2:</h4>
-
-
-<p>1- Por que os animais não produzem alguns aminoácidos?<br/>
-2- Quais são os indícios de que uma proteína ganhou novas funções?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Os Genes Que Sobraram]]></title>
-    <link href="http://igorc.tk/blog/os-genes-que-sobraram/"/>
-    <updated>2014-04-30T14:34:33-03:00</updated>
-    <id>http://igorc.tk/blog/os-genes-que-sobraram</id>
-    <content type="html"><![CDATA[<p>Brainstorm:</p>
-
-<p>Vimos no <a href="http://igorc.tk/blog/os-primeiros-predadores/">último post</a> que os primeiros organismos heterotrofos deram origem a todas as plantas, os fungos e os animais.<!-- more --> <br/>
-Durante a evolução dos eucariotos, os primeiros animais se especializaram na predação de outros eucariotos &ndash;> Essa nova dieta causou um aumento na ingestão de aminoácidos, vitaminas e lipídeos &ndash;> Assim, os animais não precisavam mais fazer os próprios aminoácidos, e muitas vias de biossíntese foram perdidas &ndash;> Mas alguns genes dessas vias sobraram! &ndash;> Uns ficaram porque eles possuem outras funções &ndash;> Outros, porém, como a ALS e BHMT podem ter ganho novas funções depois da deleção.</p>
-
-<p>Pressão seletiva?</p>
-
-<p>Quando olhamos para a sequêcia do ALS e do BHMT dos animais, plantas e fungos vemos que as sequências de ALS e BHMT das plantas e dos fungos são bem parecidas entre si, ao contrário da maioria dos nossos genes, que tem sequências parecidas entre animais e fungos. Isso mostra que esses genes mudaram bastante nos animais.</p>
-
-<p>Questões:</p>
-
-<ol>
-<li>Porque nós não conseguimos produzir alguns aminoácidos?</li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Energia + Carbono = Vida]]></title>
-    <link href="http://igorc.tk/blog/energia-plus-carbono-equals-vida/"/>
-    <updated>2014-04-25T16:37:07-03:00</updated>
-    <id>http://igorc.tk/blog/energia-plus-carbono-equals-vida</id>
-    <content type="html"><![CDATA[<p>Todos os seres vivos conhecidos precisam de energia e de Carbono para sobreviver e proliferar. Mas encontramos na vida diversas estratégias diferentes para obter esses dois elementos básicos.</p>
-
-<!-- more -->
-
-
-<p>Conceitos chave:</p>
-
-<ul>
-<li><p>Classificação por fonte de energia</p>
-
-<ul>
-<li>Animais e fungos sao quimiotrofos
-
-<ul>
-<li>A Mitocôndria</li>
-</ul>
-</li>
-<li>Plantas sao fototrofas
-
-<ul>
-<li>A Fotossíntese</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>Classificação por fonte de carbono</p>
-
-<ul>
-<li>Para que serve o Carbono?</li>
-<li>Animais e fungos são heterotrofos</li>
-<li>Plantas são autotrofas</li>
-</ul>
-</li>
-<li><p>Exceçoes</p>
-
-<ul>
-<li>A lesma <em>Elysia chlorotica</em> (kleptoplastia) <sup> <a href="http://www.pnas.org/content/105/46/17867">1</a><a href="http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/">2</a> </sup></li>
-<li>Fungos Radiotróficos (absorvem radiação ionizante) <sup> <a href="http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457">3</a> </sup></li>
-<li>A planta <em>Monotropa uniflora</em> (mico-heterotrofa, não faz fotossintese) <sup> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/?report=classic">4</a> </sup></li>
-</ul>
-</li>
-</ul>
-
-
-<p>Referências</p>
-
-<p>[1]-<a href="http://www.pnas.org/content/105/46/17867">http://www.pnas.org/content/105/46/17867</a> <br/>
-[2]-<a href="http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/">http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/</a> <br/>
-[3]-<a href="http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457">http://www.plosone.org/article/fetchArticle.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0000457</a> <br/>
-[4]-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778383/</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Como eu criei este site]]></title>
