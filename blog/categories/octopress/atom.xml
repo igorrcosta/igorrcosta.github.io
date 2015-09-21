@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: octopress | My Den]]></title>
-  <link href="http://igorc.tk/blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://igorc.tk/"/>
-  <updated>2015-09-21T13:51:47-03:00</updated>
-  <id>http://igorc.tk/</id>
+  <link href="http://igorrcosta.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://igorrcosta.github.io/"/>
+  <updated>2015-09-21T14:01:10-03:00</updated>
+  <id>http://igorrcosta.github.io/</id>
   <author>
     <name><![CDATA[Igor Costa]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Como eu criei este site]]></title>
-    <link href="http://igorc.tk/blog/como-eu-criei-este-site/"/>
+    <link href="http://igorrcosta.github.io/blog/como-eu-criei-este-site/"/>
     <updated>2014-04-04T13:35:24-03:00</updated>
-    <id>http://igorc.tk/blog/como-eu-criei-este-site</id>
+    <id>http://igorrcosta.github.io/blog/como-eu-criei-este-site</id>
     <content type="html"><![CDATA[<p>Este site foi criado para divulgar textos científicos e o processo de criação destes textos. Neste primeiro post eu quero mostrar como é fácil criar um site totalmente Open Source e de graça.
 (Alerta: Para entender esse post é necessário saber um pouco de linha de comando e/ou ser um pouco nerd) <!-- more --></p>
 
